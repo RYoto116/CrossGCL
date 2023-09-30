@@ -1,0 +1,13 @@
+[hyperparameters]
+reg=0.001
+embedding_size=128
+n_layers=3
+sample_ratio=6
+sample_rate=1
+lr=0.001
+learner=adam
+epochs=1000
+batch_size=2048
+param_init=xavier_uniform
+verbose=1
+stop_cnt=30
